@@ -8,8 +8,35 @@
 - cost savings
 - better collaboration
 - advanced security
-- data loss prevention
-## disadvantage 
+- data loss preventio
+# public cloud 
+A private cloud is a dedicated computing environment that only your organization can access and control. You can either host it on your own premises, or rent it from a third-party provider. A private cloud gives you more security, privacy, and customization, but also requires more upfront investment and maintenanc
+
+# private cloud
+A public cloud is a shared computing environment that you can access over the internet, along with other users. You can choose from various services and resources offered by a public cloud provider, such as Amazon Web Services, Microsoft Azure, or Google Cloud Platform
+
+
+# Key Differences
+
+| Feature                     | Public Cloud                                     | Private Cloud                                       |
+|-----------------------------|--------------------------------------------------|-----------------------------------------------------|
+| **Accessibility**           | Open to anyone over the public internet.         | Restricted to select users over a private network.   |
+| **Security Controls**       | Relies on the provider's security measures.      | Allows for greater control and customization.        |
+| **Data Sensitivity**        | Suitable for information not very sensitive.     | Suitable for highly sensitive information.
+| **Costs**                   | Generally cheaper than private clouds.           | Can be costlier due to dedicated infrastructure.     |
+| **Infrastructure Sharing**  | Utilizes shared infrastructure.                  | Doesn't utilize shared infrastructure.               |
+| **Customer Support**        | Supports multiple customers.                    | Supports only one dedicated customer.                |
+| **Security Level**          | Requires a higher level of security.             | Requires a medium level of security.                 |
+| **Logical Segregation**     | May use VLANs, access lists, VRF lite, MPLS, etc. | Doesn't have to be too sensitive on logical segregation.|
+| **Server Hosting**          | Utilizes shared servers.                         | Uses dedicated servers.                              |
+| **Proactive Monitoring**    | No dedicated proactive monitoring.               | Has dedicated proactive monitoring.  
+| **Cost Structure**          | Generally a fixed cost.                          | Variable total cost of ownership (TCO).              |
+| **Architecture**            | Multitenant architecture.                        | Dedicated customer architecture.                     |
+# hybrid cloud
+Hybrid cloud storage, in data storage, is a term for a storage infrastructure that uses a combination of on-premises storage resources with a public cloud storage provider.
+
+-
+- ## disadvantage 
 - risk of vendor lock-in
 - less control over underlying cloud insfra
 - concerns about security risks like data privacy and online threats
